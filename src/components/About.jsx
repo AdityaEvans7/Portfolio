@@ -7,7 +7,7 @@ function About() {
     className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-10">
       <h1 className='text-3xl font-bol mb-5'>About</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat asperiores voluptatibus eveniet tempora minima ea consequatur fuga tenetur blanditiis quaerat fugit temporibus laborum amet expedita, consequuntur, necessitatibus ipsum natus doloribus?
+      I'm a Smart working engineering student specialized in Computer science and Engineering. Along with my degree, I completed Python, HTML & CSS, courses and various technologies.I  developed a project called "Weather Forecasting".It was during this project that I discovered that I am a team player.I am currently seeking roles where I can utilize my experience and skill.
       </p>
       <br />
       <h1 className='text-yellow-300 font-semibold text-xl'>Education</h1>
