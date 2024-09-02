@@ -63,7 +63,7 @@ function Navbar() {
     </div>
     {
         menu && (
-            <div className='bg-white text-black'>
+            <div className='bg-gray-900 text-white'>
             <ul className='md:hidden flex flex-col h-screen items-center justify-center space-y-3 text-xl'>
             {
                     navItems.map(({id,text}) =>(

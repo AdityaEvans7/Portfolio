@@ -11,7 +11,8 @@ function Footer() {
     <footer className='py-12'>
         <div className="max-w-screen-2xl container mx-auto px-4 md:px-20">
             <div className=" flex flex-col items-center justify-center">
-                <div className='flex space-x-4'>
+                <h1>Available On</h1>
+                <div className='flex space-x-4 mt-5'>
                 <ul class="flex space-x-5">
                    <li>
                     <a href="https://www.facebook.com/aditya.evans.75?mibextid=ZbWKwL" target='_blank'>

@@ -38,7 +38,7 @@ function Project() {
     <div name="Project" 
     className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-20">
       <div>
-        <h1 className='text-3xl font-bol mb-5'>Project</h1>
+        <h1 className='text-3xl font-bol mb-5'>Projects</h1>
         <span className=' text-yellow-300 underline font-semibold'>Featured Projects</span>
         <div className='grid grid-cols-1 md:grid-cols-4 gap-3 my-5'>
             {
@@ -47,11 +47,12 @@ function Project() {
                         <img src={logo} className="w-[120x] h-[120px] p-1  border-[2px]" alt="" />
                         <div>
                             <div className=' px-2 font-bold text-xl mb-2 '>{name}</div>
-                            <p className='px-2 text-gray-700'>lorem ipsum, dolor sit amet consct elit.</p>
+                            <p className='px-2 text-gray-700'></p>
                         </div>
                         <div className='px-6 py-4 space-x-3 justify-around flex'>
-                            <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded'>View Image</button>
-                            <button className='bg-yellow-300 hover:bg-yellow-500 text-black font-bold px-4 py-2 rounded'>Source Code</button>
+                            <button  className='bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded'>View Image  </button>
+                            <a href="https://github.com/AdityaEvans7/Portfolio">
+                            <button  className='bg-yellow-300 hover:bg-yellow-500 text-black font-bold px-4 py-2 rounded'>Source Code</button></a>
                         </div>
 
                     </div>

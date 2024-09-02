@@ -25,14 +25,14 @@ function Home() {
       <h1>Hello, I'm a</h1>
       {/*<span className="text-red-700 font-bold">Developer</span>*/}
       <ReactTyped className="text-yellow-300 font-bold"
-          strings={[" Web Developer","n UI Designer"]}
+          strings={[" Web Developer","n UI Designer","n Android Developer"]}
           typeSpeed={40}
           backSpeed={50}
           loop={true}
         />
       </div>
       <br />
-      <p className='text-sm md:text-md text-justify'>I'm a Smart working engineering student specialized in Computer science and Engineering. Along with my degree, I completed Python, HTML & CSS, courses and various technologies.I  developed a project called "Weather Forecasting".It was during this project that I discovered that I am a team player.I am currently seeking roles where I can utilize my experience and skill.</p><br />
+      <p className='text-sm md:text-md text-justify'>I'm a Smart working engineering student specialized in Computer science and Engineering.I completed HTML, CSS, JavaScript, Reactjs, NodeJS, Bootstrap  and various technologies.I  developed various types of projects like(BookStore website, eCommerce website, Shoppping website..etc).Along with these skills i am also woking on ANDROID STUDIO.</p><br />
       <div class="flex flex-col items-center md:flex-row justify-between space-y-6 md:space-y-0">
       <div className='space-y-2'>
         <h1 className='font-bold text-center'>Available on</h1>

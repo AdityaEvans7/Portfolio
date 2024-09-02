@@ -57,8 +57,8 @@ function Skills() {
     className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-16">
       <div>
         <h1 className='text-3xl font-bol mb-5'>Skills</h1>
-        <p className=''>This is my Skills and i'm enhanching day by day</p>
-        <div className='grid grid-cols-2 md:grid-cols-5 gap-7 my-3'>
+        <p className=''>This is my Skills and i'm enhanching this skills every day.</p>
+        <div className='grid grid-cols-2 md:grid-cols-5 gap-7 mt-5 my-3'>
             {
                 cardItem.map(({id,logo,name}) =>(
                     <div className='flex flex-col items-center justify-center rounded-full md:w-[200px] md:h-[200px] shadow-md p-1 cursor-pointer hover:scale-110 duration-300' key={id}>

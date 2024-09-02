@@ -5,9 +5,9 @@ function About() {
     <>
     <div name="About" 
     className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-10">
-      <h1 className='text-3xl font-bol mb-5'>About</h1>
+      <h1 className='text-3xl font-bol mb-5'>About Me 👨‍💻</h1>
       <p>
-      I'm a Smart working engineering student specialized in Computer science and Engineering. Along with my degree, I completed Python, HTML & CSS, courses and various technologies.I  developed a project called "Weather Forecasting".It was during this project that I discovered that I am a team player.I am currently seeking roles where I can utilize my experience and skill.
+      I'm a Smart working engineering student specialized in Computer science and Engineering.I completed HTML, CSS, JavaScript, Reactjs, NodeJS, Bootstrap  and various technologies.I  developed various types of projects like(BookStore website, eCommerce website, Shoppping website..etc)".Along with these skills i am also woking on ANDROID STUDIO. I am currently seeking roles where I can utilize my experience and skill.
       </p>
       <br />
       <h1 className='text-yellow-300 font-semibold text-xl'>Education</h1>
@@ -15,12 +15,12 @@ function About() {
         <h2 className='font-sembold'>Rajasthan Technical University :)</h2>
         <li>
             Arya College of Engineering :-
-            <h5 >Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere est eos numquam eveniet? Error ipsum, laudantium dolores consequatur, quod assumenda et similique saepe nemo ipsam delectus.</h5>
+            <h5 >Currently i'm a third year student studying in Arya College of Engineering</h5>
 
         </li>
       </span>
       <br />
-      <h1 className="text-yellow-300 font-semibold text-xl">Skill & Experties</h1>
+      <h1 className="text-yellow-300 font-semibold text-xl">Skill & Experties </h1>
       <p>Proficient in Full Stck Developer, UI Designer and Android Studio, Experienced with [Figma, Android Studio & Photoshop], Excellent problem-solving skills Effective communicator and effective collaborator.</p>
       <br />
       <h1 className="text-yellow-300 font-semibold text-xl">Internships</h1>
