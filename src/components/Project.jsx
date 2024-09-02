@@ -2,7 +2,7 @@ import React from 'react'
 import ProjectApp from '../../public/ProjectApp.png';
 import Shopping from "../../public/Shopping.png";
 import Starwars from "../../public/Starwars.png";
-import coke from "../../public/coke.png";
+import Coke from "../../public/Coke.png";
 import jarvis from "../../public/jarvis.png";
 
 function Project() {
@@ -29,7 +29,7 @@ function Project() {
         },
         {
             id:1,
-            logo:coke,
+            logo:Coke,
             name:"Coca Cola"
         },
     ]
