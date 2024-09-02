@@ -20,16 +20,16 @@ function Footer() {
                    </a>
                    </li>
                    <li>
-                   <a href="https://www.facebook.com/aditya.evans.75?mibextid=ZbWKwL" target='_blank'>
+                   <a href="https://www.linkedin.com/in/aditya-kumar-mandal-72b480289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target='_blank'>
                     <FaLinkedin size={24} />
                     </a>
                     </li>
                     <li>
-                    <a href="https://www.facebook.com/aditya.evans.75?mibextid=ZbWKwL" target='_blank'>
+                    <a href="https://www.instagram.com/evansaditya9?igsh=MWpwNGo5YXRtcjk0ag==" target='_blank'>
                     <FaInstagramSquare size={24} /></a>
                     </li>
                     <li>
-                    <a href="https://www.facebook.com/aditya.evans.75?mibextid=ZbWKwL" target='_blank'>
+                    <a href="https://x.com/TheAditya777?t=yK18sy6Z0JpwAs1pb1jGCg&s=09" target='_blank'>
                     <FaSquareXTwitter size={24} /></a>
                     </li>
                     </ul>
