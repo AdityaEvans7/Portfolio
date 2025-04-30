@@ -7,12 +7,12 @@ function About() {
     className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-10">
       <h1 className='text-3xl font-bol mb-5'>About Me 👨‍💻</h1>
       <p>
-      I'm a Smart working engineering student specialized in Computer science and Engineering.I completed HTML, CSS, JavaScript, Reactjs, NodeJS, Bootstrap  and various technologies.I  developed various types of projects like(BookStore website, eCommerce website, Shoppping website..etc)".Along with these skills i am also woking on ANDROID STUDIO. I am currently seeking roles where I can utilize my experience and skill.
+      I'm a Smart working engineering student specialized in Computer science and Engineering and specialities in in Web Development and App Development.I  developed various types of projects like(Real eState Website, Real time chat App, Movie App, Income & Expenses tracker and many more....)".Along with these skills i am also working on UI/UX. I am currently seeking roles where I can utilize my experience and skill.
       </p>
       <br />
       <h1 className='text-yellow-300 font-semibold text-xl'>Education</h1>
       <span>
-        <h2 className='font-sembold'>Rajasthan Technical University :)</h2>
+        <h2 className='font-semibold'>Rajasthan Technical University :)</h2>
         <li>
             Arya College of Engineering :-
             <h5 >Currently i'm a third year student studying in Arya College of Engineering</h5>
@@ -21,7 +21,7 @@ function About() {
       </span>
       <br />
       <h1 className="text-yellow-300 font-semibold text-xl">Skill & Experties </h1>
-      <p>Proficient in Full Stck Developer, UI Designer and Android Studio, Experienced with [Figma, Android Studio & Photoshop], Excellent problem-solving skills Effective communicator and effective collaborator.</p>
+      <p>Proficient in Full Stack Developer, App Developer UI Designer and  Excellent problem-solving skills, Effective communicator and effective collaborator.</p>
       <br />
       <h1 className="text-yellow-300 font-semibold text-xl">Internships</h1>
       <li>
