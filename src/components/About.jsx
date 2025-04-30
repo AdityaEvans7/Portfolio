@@ -7,7 +7,7 @@ function About() {
     className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-10">
       <h1 className='text-3xl font-bol mb-5'>About Me 👨‍💻</h1>
       <p>
-      I'm a Smart working engineering student specialized in Computer science and Engineering and specialities in in Web Development and App Development.I  developed various types of projects like(Real eState Website, Real time chat App, Movie App, Income & Expenses tracker and many more....)".Along with these skills i am also working on UI/UX. I am currently seeking roles where I can utilize my experience and skill.
+      I'm a Smart working engineering student specialized in Computer science and Engineering and specialities in Web Development and App Development.I  developed various types of projects like(NewsMania Websites, Movie App, Real eState Website, Real time chat App, Income & Expenses tracker and many more....)".Along with these skills i am also working on UI/UX. I am currently seeking roles where I can utilize my experience and skill.
       </p>
       <br />
       <h1 className='text-yellow-300 font-semibold text-xl'>Education</h1>
